@@ -1,6 +1,6 @@
 #Snake Draft
 
-![Snake Draft](https://media.giphy.com/media/402g3DxzPc8T1jpKrI/giphy.gif)
+![Snake Draft](https://media.giphy.com/media/1yT8YNICicBjhqwvF3/giphy.gif)
 
 ```php
 $picks = array(
