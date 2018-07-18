@@ -47,6 +47,8 @@ try {
 	echo "========={$SEPARATOR}";
 	$snakeDrafter->printRounds();
 
+	sleep( 3 );
+
 	$current_round_id = 1;
 	while ( ! $snakeDrafter->isCompleted() ) {
 
